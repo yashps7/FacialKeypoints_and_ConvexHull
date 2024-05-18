@@ -4,7 +4,7 @@ Here we implemented Facial Key points detection model with the concepts of CNN u
 
 1. Facial Keypoints
    
-   ![FacialKeypoints](https://github.com/yashps7/FacialKeypoints_and_ConvexHull/blob/main/keypoints.png)
+   ![FacialKeypoints](https://github.com/yashps7/FacialKeypoints_and_ConvexHull/blob/main/facialkeypoints.png)
 
 2.Convex Hull and Expression
 
